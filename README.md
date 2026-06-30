@@ -164,6 +164,6 @@ Feel free to fork the repository, improve the game, and submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the MIT License.
