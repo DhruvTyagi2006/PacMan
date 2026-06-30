@@ -51,7 +51,7 @@ A fully playable **Pac-Man clone** built using **Java Swing** and **AWT**. This 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pacman-java.git
+git clone https://github.com/DhruvTyagi2006/PacMan.git
 ```
 
 ### 2. Open the project
@@ -126,19 +126,6 @@ This project demonstrates:
 - Randomized ghost movement
 - Tile-map based level design
 - Resource loading with `ImageIcon`
-
----
-
-## Screenshots
-
-Add screenshots of the game here.
-
-Example:
-
-```
-screenshots/gameplay.png
-screenshots/game-over.png
-```
 
 ---
 
